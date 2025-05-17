@@ -1,0 +1,8 @@
+let nums = [1, 2, 3]
+print("Original numbers:")
+print(nums)
+
+print("Doubled values:")
+print(nums[0] * 2)
+print(nums[1] * 2)
+print(nums[2] * 2) 

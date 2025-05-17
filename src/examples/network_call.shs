@@ -1,0 +1,7 @@
+import "netgear"
+try {
+    let response = netgear.get("https://example.com")
+    print(response)
+} catch (err) {
+    print("Network error: " + err)
+} 

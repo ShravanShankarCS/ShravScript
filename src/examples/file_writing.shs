@@ -1,0 +1,4 @@
+import "fileio"
+fileio.write("output.txt", "This is ShravScript writing to a file!")
+let content = fileio.read("output.txt")
+print(content) 

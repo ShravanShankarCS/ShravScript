@@ -1,0 +1,3 @@
+import "sysops"
+print(sysops.listdir("."))
+print(sysops.getenv("HOME")) 

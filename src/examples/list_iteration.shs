@@ -1,0 +1,13 @@
+let numbers = [1, 2, 3, 4]
+let i = 0
+while i < 4 {
+    if numbers[i] == 3 {
+        i = i + 1
+        continue
+    }
+    if numbers[i] > 3 {
+        break
+    }
+    print(numbers[i])
+    i = i + 1
+} 
