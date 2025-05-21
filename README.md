@@ -108,6 +108,10 @@ ShravScript comes with several built-in modules:
 2. Implement the module's functionality
 3. Add the module name to the list in `interpreter.py`
 
+## Documentation
+
+Please read our [documentation](https://shravan.org/shravscript) to start coding with ShravScript
+
 ## Requirements
 
 - Python 3.6 or higher
